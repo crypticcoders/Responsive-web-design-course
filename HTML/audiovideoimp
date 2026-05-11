@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AUDIO & VIDEO IN HTML</title>
+</head>
+<body><h1>HTML Audio and Video Lab</h1>
+<section>
+  <h2>ONE LESS LONELY GURL🕙</h2>
+  <video controls loop mutes width="640">
+  <source src="https://dn.ffmusic.icu/videos/justin-bieber-one-less-lonely-girl_677253.mp4"
+  type="video/mp4"> </source>
+  </video>
+</section>
+<section>
+  <h2>TEN THOUSAND HOURS🕙</h2>
+  <audio src="https://s3.ustatik.com/audio.com.audio/source/32/72/1829755564077232-1829755564180663.mp3?response-content-disposition=attachment%3B%20filename%3D%22Dan%20%20Shay%2C%20Justin%20Bieber%20-%2010%2C000%20Hours%20%28Audio%29.mp3%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=F0E8U41NBMMW3Y027UTJ%2F20260507%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260507T133129Z&X-Amz-SignedHeaders=host&X-Amz-Expires=518400&X-Amz-Signature=b8015123c7c56d06318ec9eb4681d45802f35591f2147ee30dbf75220061958f" controls loop muted></audio>
+</section>
+</body>
+</html>
