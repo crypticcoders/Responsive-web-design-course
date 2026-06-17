@@ -31,4 +31,4 @@ These projects represent the culmination of my training, where I integrated vari
 ---
 
 ## Project Objectives
-As an ECE student with a background in hardware-software integration and product management interests, I view web development as a critical tool for scaling technical solutions. This repository is not just a collection of code, but a reflection of my commitment to mastering the full-stack pipeline—starting with a rock-solid frontend foundation.dware-software integration and product management interests, I view web development as a critical tool for scaling technical solutions. This repository is not just a collection of code, but a reflection of my commitment to mastering the full-stack pipeline—starting with a rock-solid frontend foundation.
+As an ECE student with a background in hardware-software integration and product management interests, I view web development as a critical tool for scaling technical solutions. This repository is not just a collection of code, but a reflection of my commitment to mastering the full-stack pipeline—starting with a rock-solid frontend foundation.
