@@ -17,8 +17,6 @@ button,
 textarea {
   font: inherit;
 }
-
-
 :root {
 
   --FF: Arial, sans-serif;
@@ -90,7 +88,6 @@ textarea {
 .center {
   text-align: center;
 }
-
 html {
   scroll-behavior: smooth;
   font-size: var(--FS);
